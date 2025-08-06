@@ -1,8 +1,3 @@
-👋 Olá, eu sou @ThiagoAM22  
-- 👀 Estou interessado em desenvolvimento de software, ciência de dados e computação em nuvem.  
-- 🌱 Atualmente estou aprendendo Análise e Desenvolvimento de Sistemas (ADS) e explorando Python, Java e desenvolvimento web.  
-- 💞️ Estou buscando colaborar em projetos open-source e aplicações do mundo real.  
-- 📫 Como me contatar: Thiago-bdc@hotmail.com| https://www.linkedin.com/feed/|  Tel : 2197016-2279
-- 😄 Pronomes: Ele/Dele  
-- ⚡ Curiosidade: Estou fazendo transição da Engenharia Elétrica para TI e adoro resolver problemas complexos com código! 
---->
+Olá, me chamo Thiago Andrade. Sou formado em Engenharia Elétrica e, após alguns anos atuando com projetos, obras e sistemas fotovoltaicos, decidi redirecionar minha carreira para a área de Tecnologia da Informação (TI).
+Hoje, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e participo ativamente de bootcamps, cursos e projetos práticos voltados ao desenvolvimento de aplicações com Python, Flask e Django.
+Acredito no aprendizado contínuo e busco aplicar na prática tudo o que estudo, seja em projetos pessoais, open source ou colaborações em equipe. Minha principal motivação é trabalhar com soluções que gerem impacto e valor, enquanto cresço profissionalmente na área de desenvolvimento web.
